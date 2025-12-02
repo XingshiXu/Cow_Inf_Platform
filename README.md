@@ -57,7 +57,7 @@
 > <br>
 > *(图： Information management platform)*
 
-### 🔄 工作流程
+### 🔄 系统工作流程
 
 1.  **数据采集**：操作者通过终端设备（Jetson AGX Orin + 双目相机）的 GUI 界面完成牛只测量。
 2.  **数据传输**：测量结果自动上传至服务器。
