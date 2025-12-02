@@ -36,13 +36,11 @@
 本repo主要展示**边缘采集终端**和**数据展示平台**两部分。
 
 #### 1. 体尺数据采集终端 (硬件)
-
-
-
-> **[此处放置硬件设备图片，例如原文中的图13(a)]**
+  
+> **![设备图片](https://github.com/XingshiXu/Cow_Inf_Platform/blob/main/Device.png)**
 > <br>
 > *(图： Body measurement device)*
-
+  
 #### 2. 数据展示平台 (数据库与界面)
 
 平台基于 B/S 架构构建，前后端分离设计。
