@@ -9,7 +9,8 @@
 > 一个集成了非接触式牛只体尺测量与智慧牧场管理数据可视化的综合解决方案。
 
 ---
-
+**前言**：我们完成了一项新的工作，您可以在下面的海报中获得简要的信息：
+![工作海报](https://github.com/XingshiXu/Cow_Inf_Platform/blob/main/Poster.jpg）
 
 
 ## 🇨🇳 中文介绍 (Chinese Version)
