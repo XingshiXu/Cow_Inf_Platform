@@ -52,7 +52,8 @@
 | **数据库 (Database)**| MySQL |
 
 > **![平台视频](https://github.com/XingshiXu/Cow_Inf_Platform/blob/main/%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE.jpg)**
-> **[![Video]([https://raw.githubusercontent.com/xxxx/preview.png](https://github.com/XingshiXu/Cow_Inf_Platform/blob/main/%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE.jpg))](https://www.youtube.com/watch?v=IYBWnM-T8Yc)**
+> [![平台视频](https://github.com/XingshiXu/Cow_Inf_Platform/blob/main/视频播放.jpg?raw=true)](https://www.youtube.com/watch?v=IYBWnM-T8Yc)
+
 > <br>
 > *(视频： Information management platform （120秒让您了解平台的主要功能）)*
 
