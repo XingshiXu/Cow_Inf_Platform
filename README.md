@@ -72,7 +72,7 @@
 
 *   **硬件设计参考**：Xingshi Xu, et. al., (2024), Boosting cattle face recognition under uncontrolled scenes by embedding enhancement and optimization, Applied Soft Computing, 164.111951。
 *   **更多信息**：
-    *   请在此处查找我们的更多工作：[链接](https://github.com/XingshiXu/TeamWorks)
+    *   在此处查找我们的更多工作：[链接](https://github.com/XingshiXu/TeamWorks)✨
 
 ---
 <p align="center">
