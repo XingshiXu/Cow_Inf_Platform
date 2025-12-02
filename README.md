@@ -56,7 +56,7 @@
 > <br>
 > **(视频： Information management platform （两分钟让您了解平台的主要功能）)**
 
->  **![设备图片](https://github.com/XingshiXu/Cow_Inf_Platform/blob/main/PlatformFunction.gif)**
+>  **![设备图片](https://raw.githubusercontent.com/XingshiXu/Cow_Inf_Platform/main/PlatformFunction.gif)**
 >  <br>
 > **(GIF： 您同样可以通过动图快速简要的了解)**
 
