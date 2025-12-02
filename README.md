@@ -51,11 +51,11 @@
 | **前端 (Frontend)** | JavaScript 语言, 结合 Vue 2.0 与 ECharts 等组件实现动态交互与数据可视化 |
 | **数据库 (Database)**| MySQL |
 
-> **![平台视频](https://github.com/XingshiXu/Cow_Inf_Platform/blob/main/%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE.jpg)**
+
 > [![平台视频](https://github.com/XingshiXu/Cow_Inf_Platform/blob/main/视频播放.jpg?raw=true)](https://www.youtube.com/watch?v=IYBWnM-T8Yc)
 
 > <br>
-> *(视频： Information management platform （120秒让您了解平台的主要功能）)*
+> *(视频： Information management platform （两分钟让您了解平台的主要功能）)*
 
 ### 🔄 系统工作流程
 
