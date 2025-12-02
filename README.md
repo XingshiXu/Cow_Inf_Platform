@@ -53,9 +53,10 @@
 
 
 > [![平台视频](https://github.com/XingshiXu/Cow_Inf_Platform/blob/main/视频播放.jpg?raw=true)](https://www.youtube.com/watch?v=IYBWnM-T8Yc)
-
 > <br>
 > *(视频： Information management platform （两分钟让您了解平台的主要功能）)*
+
+> 
 
 ### 🔄 系统工作流程
 
