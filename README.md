@@ -9,8 +9,8 @@
 > 一个集成了非接触式牛只体尺测量与智慧牧场管理数据可视化的综合解决方案。
 
 ---
-**Preface**: We have recently completed a new research project. A concise overview of this work can be found in the poster below.  
-**前言**：我们近期完成了一项新的研究工作，您可以从下方海报中获取该研究的简要概述： 
+**🐮🐮🐮 Preface**: We have recently completed a new research project. A concise overview of this work can be found in the poster below.  
+**🐮🐮🐮 前言**：我们近期完成了一项新的研究工作，您可以从下方海报中获取该研究的简要概述： 
 ![工作海报](https://github.com/XingshiXu/Cow_Inf_Platform/blob/main/Poster.jpg)
 
 
