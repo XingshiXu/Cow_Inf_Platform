@@ -14,7 +14,7 @@
 ![工作海报](https://github.com/XingshiXu/Cow_Inf_Platform/blob/main/Poster.jpg)
 
 
-## 🇨🇳 中文介绍 (Chinese Version) The English version is currently being organized and will be released shortly.
+## 🇨🇳 中文介绍 (Chinese Version)
 
 ### 📖 Project Overview
 
