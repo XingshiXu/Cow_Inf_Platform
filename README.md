@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/XingshiXu/Cow_Inf_Platform/main/动物骨架.gif"
        alt="动物骨架 GIF"
-       width="200">
+       width="120">
 </p>
 
 
