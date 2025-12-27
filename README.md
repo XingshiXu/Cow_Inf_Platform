@@ -13,6 +13,9 @@
 **🐮🐮🐮 Preface**: We have recently completed a new research project. A concise overview of this work can be found in the poster below.  
 
 **🐮🐮🐮 前言**：我们近期完成了一项新的研究工作，您可以从下方海报中获取该研究的简要概述： 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/XingshiXu/Cow_Inf_Platform/main/动物骨架.gif" alt="动物骨架 GIF" width=200">
+</p>
 
 ![工作海报](https://github.com/XingshiXu/Cow_Inf_Platform/blob/main/Poster.jpg)
 
