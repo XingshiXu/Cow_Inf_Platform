@@ -9,12 +9,16 @@
 > 一个集成了非接触式牛只体尺测量与智慧牧场管理数据可视化的综合解决方案。
 
 ---
+
 **🐮🐮🐮 Preface**: We have recently completed a new research project. A concise overview of this work can be found in the poster below.  
+
 **🐮🐮🐮 前言**：我们近期完成了一项新的研究工作，您可以从下方海报中获取该研究的简要概述： 
+
 ![工作海报](https://github.com/XingshiXu/Cow_Inf_Platform/blob/main/Poster.jpg)
 
-
-## 🇨🇳 中文介绍 (Chinese Version)
+## 🇨🇳 🇬🇧 中文与英文介绍
+~~*(The English version is currently being organized and will be released shortly.)*  --2025.11.05~~  
+*(This document is bilingual. The English version precedes the Chinese version below.)*--2025.12.27
 
 ### 📖 Project Overview
 
@@ -134,23 +138,38 @@ The platform is built on a B/S architecture with a frontend-backend separation d
 
 ***
 
+### 🔬 Practical Application & User Feedback
+
+Practical application tests provided valuable insights into the system's performance and usability in real-world scenarios. In a test where the device was carried by an operator, they were able to complete the measurement and data upload for a batch of 10 cooperative cattle within approximately 3 minutes. This demonstrated the system's potential for high operational efficiency in real-world farm settings.
+
+However, these tests also highlighted practical limitations. The current battery life of approximately 2 hours indicates that for continuous, large-scale deployment, power management optimizations or a wired power source would be necessary. Furthermore, informal feedback from farm operators was highly encouraging. They appreciated the non-intrusive nature of the measurement process and found the data visualization platform to be intuitive. A recurring suggestion was the desire for a more lightweight and ruggedized hardware design for ease of use. Operators also expressed strong interest in potential future functions, such as automated lameness detection and Body Condition Scoring (BCS), which confirms the practical value of expanding the platform's capabilities. These findings are invaluable for guiding the future iterations of our system.
+
+---
+
+### 🔬 实际应用与用户反馈
+
+实际应用测试为我们系统的性能和在真实场景中的可用性提供了宝贵的见解。在一次由操作员背负设备的测试中，我们能够在大约3分钟内完成对10头配合牛只的测量和数据上传。这展示了该系统在真实牧场环境中具有很高的操作效率潜力。
+
+然而，这些测试也凸显了一些实际的局限性。目前大约2小时的电池续航表明，对于连续、大规模的部署，电源管理的优化或有线电源将是必要的。此外，来自农场操作人员的交流反馈非常令人鼓舞。他们欣赏该测量过程的非侵入性，并认为数据可视化平台非常直观。一个反复出现的建议是希望硬件能有更轻便、更坚固耐用的设计，以方便使用。操作人员还对未来的潜在功能（如自动化跛行检测和体况评分BCS）表达了强烈兴趣，这证实了扩展平台功能的实用价值。这些发现对于指导我们系统的未来迭代至关重要。
+
+***
+
 ### 📚 References & More Information
 
-*   **Hardware Design Reference**: Xingshi Xu, et. al., (2024), "Boosting cattle face recognition under uncontrolled scenes by embedding enhancement and optimization," *Applied Soft Computing*, 164, 111951.  
-*   **More Information**:  
-    *   Find more of our work here: [Link](https://github.com/XingshiXu/TeamWorks) ✨  
-  
----  
-  
-### 📚 参考文献与更多信息  
-  
-*   **硬件设计参考**：Xingshi Xu, et. al., (2024), Boosting cattle face recognition under uncontrolled scenes by embedding enhancement and optimization, *Applied Soft Computing*, 164.111951。  
-*   **更多信息**：  
-    *   在此处查找我们的更多工作：[链接](https://github.com/XingshiXu/TeamWorks)✨  
-  
-  
-  
+*   **Hardware Design Reference**: Xingshi Xu, et. al., (2024), "Boosting cattle face recognition under uncontrolled scenes by embedding enhancement and optimization," *Applied Soft Computing*, 164, 111951.
+*   **More Information**:
+    *   Find more of our work here: [Link](https://github.com/XingshiXu/TeamWorks) ✨
+
 ---
+
+### 📚 参考文献与更多信息
+
+*   **硬件设计参考**：Xingshi Xu, et. al., (2024), Boosting cattle face recognition under uncontrolled scenes by embedding enhancement and optimization, *Applied Soft Computing*, 164.111951。
+*   **更多信息**：
+    *   在此处查找我们的更多工作：[链接](https://github.com/XingshiXu/TeamWorks)✨
+
+---
+
 <p align="center">
   Created with ❤️ by XingshiXu (NWAFU & KU Lueven)
 </p>
